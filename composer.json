@@ -1,0 +1,19 @@
+{
+    "name": "jaeger/querylist-ext-request",
+    "description": "QueryList扩展，Request网络操作扩展",
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "Jaeger",
+            "email": "hj.q@qq.com"
+        }
+    ],
+    "require": {
+            "jaeger/http":"dev-master"
+        },
+    "autoload" : {
+        "psr-4" : {
+          "QL\\Ext\\" : ""
+        }
+    }
+}

@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-            "jaeger/http":"dev-master"
+            "jaeger/http":"~1.0"
         },
     "autoload" : {
         "psr-4" : {

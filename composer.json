@@ -9,7 +9,8 @@
         }
     ],
     "require": {
-            "jaeger/http":"~1.0"
+            "jaeger/querylist-ext-aquery":"^1.0",
+            "jaeger/http":"^1.0"
         },
     "autoload" : {
         "psr-4" : {
